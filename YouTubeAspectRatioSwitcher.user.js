@@ -2,7 +2,7 @@
 // @name         YouTube Aspect Ratio Switcher
 // @version      1.3
 // @description  Adds an aspect ratio switcher button to YouTube's video player.
-// @namespace    CHJ85
+// @namespace    https://github.com/CHJ85/YouTube-Aspect-Ratio-Switcher
 // @author       CHJ85
 // @match        *://*.youtube.com/watch?v=*
 // @match        *://*.youtube.com/embed/*
